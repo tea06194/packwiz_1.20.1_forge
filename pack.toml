@@ -1,0 +1,13 @@
+name = "createWithOpts"
+author = "amtea"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "51dbca5612dc73840202305e44706cad0862b0d9a820794bce035edc7411e278"
+
+[versions]
+forge = "47.4.6"
+minecraft = "1.20.1"
